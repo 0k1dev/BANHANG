@@ -1,0 +1,708 @@
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+› Switching to --dev-client
+
+Development build: Unable to get the default URI scheme for the project. Please make sure the expo-dev-client package is installed.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀▀▄▄▀▀█▄█ ▄▄▄▄▄ █
+█ █   █ ███▄█  ▀▀▄█ █   █ █
+█ █▄▄▄█ ██▄▀▄▀███▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ █ ▀▄▀ █ █▄▄▄▄▄▄▄█
+█ ▄▀▄▄▀▄█▀ ▄▄▀▀█ ██▄▀▀▀▀▀▄█
+█▀▀▀▀▀█▄▄▀▀  ▀█▄  ▄▄ ▀ ▀▀ █
+█▀ ▄█▀ ▄▀▄▄█▄▄▀▄ ▀█▄▄▀██▀▄█
+█ ▄▄   ▄▀▀██ ▄▄█ █▀  █▄ ▄ █
+█▄████▄▄█ █ ▀▀▀▄█ ▄▄▄ █▄ ██
+█ ▄▄▄▄▄ ██ █▄▀█▀▀ █▄█ ▄█▀ █
+█ █   █ █ █▄█▄▄ ▄   ▄▄ █  █
+█ █▄▄▄█ █▀▀▀█▄█ ▄▄▄█  █   █
+█▄▄▄▄▄▄▄█▄▄███▄▄█▄▄▄██▄██▄█
+
+› Metro waiting on http://localhost:8081
+› Scan the QR code above to open the project in a development build. Learn more: https://expo.fyi/start
+
+› Using development build
+› Press s │ switch to Expo Go
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+ ERROR  Project is incompatible with this version of Expo Go
+
+• The installed version of Expo Go is for SDK 54.
+• The project you opened uses SDK 51.
+
+How to fix this error:
+Either upgrade this project to SDK 54 or install an older version of Expo Go that is compatible with your project.
+
+<a href='https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/'>Learn how to upgrade to SDK 54.</a>
+
+<a href='https://expo.dev/go?sdkVersion=51&platform=android&device=false'>Learn how to install Expo Go for SDK 51</a>.
+ ERROR  Project is incompatible with this version of Expo Go
+
+• The installed version of Expo Go is for SDK 54.
+• The project you opened uses SDK 51.
+
+How to fix this error:
+Either upgrade this project to SDK 54 or install an older version of Expo Go that is compatible with your project.
+
+<a href='https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/'>Learn how to upgrade to SDK 54.</a>
+
+<a href='https://expo.dev/go?sdkVersion=51&platform=android&device=false'>Learn how to install Expo Go for SDK 51</a>.
+› Switching to --go
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+ ERROR  Project is incompatible with this version of Expo Go
+
+• The installed version of Expo Go is for SDK 54.
+• The project you opened uses SDK 51.
+
+How to fix this error:
+Either upgrade this project to SDK 54 or install an older version of Expo Go that is compatible with your project.
+
+<a href='https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/'>Learn how to upgrade to SDK 54.</a>
+
+<a href='https://expo.dev/go?sdkVersion=51&platform=android&device=false'>Learn how to install Expo Go for SDK 51</a>.
+ ERROR  Project is incompatible with this version of Expo Go
+
+• The installed version of Expo Go is for SDK 54.
+• The project you opened uses SDK 51.
+
+How to fix this error:
+Either upgrade this project to SDK 54 or install an older version of Expo Go that is compatible with your project.
+
+<a href='https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/'>Learn how to upgrade to SDK 54.</a>
+
+<a href='https://expo.dev/go?sdkVersion=51&platform=android&device=false'>Learn how to install Expo Go for SDK 51</a>.
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo install --fix
+Dependencies are up to date
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npm install
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @expo/webpack-config@19.0.1
+npm error Found: expo@51.0.39
+npm error node_modules/expo
+npm error   expo@"~51.0.31" from the root project
+npm error   peer expo@"*" from expo-asset@10.0.10
+npm error   node_modules/expo-asset
+npm error     expo-asset@"~10.0.10" from expo@51.0.39
+npm error   6 more (expo-constants, expo-file-system, expo-font, ...)
+npm error
+npm error Could not resolve dependency:
+npm error peer expo@"^49.0.7 || ^50.0.0-0" from @expo/webpack-config@19.0.1
+npm error node_modules/@expo/webpack-config
+npm error   dev @expo/webpack-config@"^19.0.1" from the root project
+npm error
+npm error Conflicting peer dependency: expo@50.0.21
+npm error node_modules/expo
+npm error   peer expo@"^49.0.7 || ^50.0.0-0" from @expo/webpack-config@19.0.1
+npm error   node_modules/@expo/webpack-config
+npm error     dev @expo/webpack-config@"^19.0.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_53_59_275Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_53_59_275Z-debug-0.log
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo install --fix
+Dependencies are up to date
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npm install
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @expo/webpack-config@19.0.1
+npm error Found: expo@51.0.39
+npm error node_modules/expo
+npm error   expo@"~51.0.31" from the root project
+npm error   peer expo@"*" from expo-asset@10.0.10
+npm error   node_modules/expo-asset
+npm error     expo-asset@"~10.0.10" from expo@51.0.39
+npm error   6 more (expo-constants, expo-file-system, expo-font, ...)
+npm error
+npm error Could not resolve dependency:
+npm error peer expo@"^49.0.7 || ^50.0.0-0" from @expo/webpack-config@19.0.1
+npm error node_modules/@expo/webpack-config
+npm error   dev @expo/webpack-config@"^19.0.1" from the root project
+npm error
+npm error Conflicting peer dependency: expo@50.0.21
+npm error node_modules/expo
+npm error   peer expo@"^49.0.7 || ^50.0.0-0" from @expo/webpack-config@19.0.1
+npm error   node_modules/@expo/webpack-config
+npm error     dev @expo/webpack-config@"^19.0.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_54_47_104Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_54_47_104Z-debug-0.log
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+ ERROR  Project is incompatible with this version of Expo Go
+
+• The installed version of Expo Go is for SDK 54.
+• The project you opened uses SDK 51.
+
+How to fix this error:
+Either upgrade this project to SDK 54 or install an older version of Expo Go that is compatible with your project.
+
+<a href='https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/'>Learn how to upgrade to SDK 54.</a>
+
+<a href='https://expo.dev/go?sdkVersion=51&platform=android&device=false'>Learn how to install Expo Go for SDK 51</a>.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npm install
+npm error code ETARGET
+npm error notarget No matching version found for @expo/webpack-config@^20.0.0.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_57_37_515Z-debug-0.log
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npm install
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: htk-app@1.0.0
+npm error Found: expo@54.0.27
+npm error node_modules/expo
+npm error   expo@"~54.0.0" from the root project
+npm error   peer expo@"*" from @expo/dom-webview@0.2.8
+npm error   node_modules/@expo/dom-webview
+npm error     peerOptional @expo/dom-webview@"*" from expo@54.0.27
+npm error   1 more (@expo/metro-runtime)
+npm error
+npm error Could not resolve dependency:
+npm error peer expo@"^49.0.7 || ^50.0.0-0" from @expo/webpack-config@19.0.1
+npm error node_modules/@expo/webpack-config
+npm error   dev @expo/webpack-config@"^19.0.0" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_59_15_891Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-12-11T10_59_15_891Z-debug-0.log
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npm install
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated @babel/plugin-proposal-nullish-coalescing-operator@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead.
+npm warn deprecated @babel/plugin-proposal-class-properties@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead.
+npm warn deprecated rimraf@2.6.3: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated @babel/plugin-proposal-optional-chaining@7.21.0: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated sudo-prompt@9.2.1: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+
+added 852 packages, and audited 853 packages in 37s
+
+71 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  expo-file-system@17.0.1 - expected version: ~19.0.20
+  expo-sharing@12.0.1 - expected version: ~14.0.8
+  expo-status-bar@1.12.1 - expected version: ~3.0.9
+  react@18.2.0 - expected version: 19.1.0
+  react-dom@18.2.0 - expected version: 19.1.0
+  react-native@0.75.4 - expected version: 0.81.5
+  react-native-web@0.19.13 - expected version: ^0.21.0
+  react-native-view-shot@3.8.0 - expected version: 4.0.3
+Your project may not work correctly until you install the expected versions of the packages.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 13451ms node_modules\expo\AppEntry.js (679 modules)
+Android Bundled 49ms node_modules\expo\AppEntry.js (1 module)
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+The following packages should be updated for best compatibility with the installed expo version:
+  expo-file-system@17.0.1 - expected version: ~19.0.20
+  expo-sharing@12.0.1 - expected version: ~14.0.8
+  expo-status-bar@1.12.1 - expected version: ~3.0.9
+  react@18.2.0 - expected version: 19.1.0
+  react-dom@18.2.0 - expected version: 19.1.0
+  react-native@0.75.4 - expected version: 0.81.5
+  react-native-web@0.19.13 - expected version: ^0.21.0
+  react-native-view-shot@3.8.0 - expected version: 4.0.3
+Your project may not work correctly until you install the expected versions of the packages.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 11435ms node_modules\expo\AppEntry.js (679 modules)
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo install expo-file-system@~19.0.20 expo-sharing@~14.0.8 expo-status-bar@~3.0.9 react-native@0.81.5 react-native-web@~0.21.0 react-dom@19.1.0 react@19.1.0 react-native-view-shot@4.0.3
+› Installing 8 other packages using npm
+› Using ~19.0.20 instead of ~19.0.20 for expo-file-system, ~14.0.8 instead of ~14.0.8 for expo-sharing, ~3.0.9 instead of ~3.0.9 for expo-status-bar, 0.81.5 instead of 0.81.5 for react-native, ~0.21.0 instead of ^0.21.0 for react-native-web, 19.1.0 instead of 19.1.0 for react-dom, 19.1.0 instead of 19.1.0 for react, and 4.0.3 instead of 4.0.3 for react-native-view-shot because these versions was explicitly provided. Packages excluded from dependency validation should be listed in expo.install.exclude in package.json. Learn more: https://docs.expo.dev/more/expo-cli/#configuring-dependency-validation
+> npm install
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: htk-app@1.0.0
+npm warn Found: react@18.2.0
+npm warn node_modules/react
+npm warn   react@"19.1.0" from the root project
+npm warn   13 more (@expo/devtools, @expo/vector-icons, expo, expo-asset, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.2.0" from react-native@0.75.4
+npm warn node_modules/react-native
+npm warn   react-native@"0.81.5" from the root project
+npm warn   12 more (@expo/devtools, @expo/vector-icons, expo, @expo/cli, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: htk-app@1.0.0
+npm warn Found: react@18.2.0
+npm warn node_modules/react
+npm warn   react@"19.1.0" from the root project
+npm warn   13 more (@expo/devtools, @expo/vector-icons, expo, expo-asset, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.2.0" from react-native@0.75.4
+npm warn node_modules/react-native
+npm warn   react-native@"0.81.5" from the root project
+npm warn   12 more (@expo/devtools, @expo/vector-icons, expo, @expo/cli, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: htk-app@1.0.0
+npm warn Found: react@18.2.0
+npm warn node_modules/react
+npm warn   react@"19.1.0" from the root project
+npm warn   13 more (@expo/devtools, @expo/vector-icons, expo, expo-asset, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.2.0" from react-native@0.75.4
+npm warn node_modules/react-native
+npm warn   react-native@"0.81.5" from the root project
+npm warn   12 more (@expo/devtools, @expo/vector-icons, expo, @expo/cli, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: htk-app@1.0.0
+npm warn Found: react@18.2.0
+npm warn node_modules/react
+npm warn   react@"19.1.0" from the root project
+npm warn   13 more (@expo/devtools, @expo/vector-icons, expo, expo-asset, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.2.0" from react-native@0.75.4
+npm warn node_modules/react-native
+npm warn   react-native@"0.81.5" from the root project
+npm warn   12 more (@expo/devtools, @expo/vector-icons, expo, @expo/cli, ...)
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+
+added 58 packages, removed 275 packages, changed 35 packages, and audited 636 packages in 40s
+
+56 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 11976ms node_modules\expo\AppEntry.js (696 modules)
+Android Bundled 58ms node_modules\expo\AppEntry.js (1 module)
+ WARN  Method moveAsync imported from "expo-file-system" is deprecated.
+You can migrate to the new filesystem API using "File" and "Directory" classes or import the legacy API from "expo-file-system/legacy".
+API reference and examples are available in the filesystem docs: https://docs.expo.dev/versions/v54.0.0/sdk/filesystem/
+ ERROR  Lỗi khi lưu ảnh: [Error: Method moveAsync imported from "expo-file-system" is deprecated.
+You can migrate to the new filesystem API using "File" and "Directory" classes or import the legacy API from "expo-file-system/legacy".
+API reference and examples are available in the filesystem docs: https://docs.expo.dev/versions/v54.0.0/sdk/filesystem/]
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 12513ms node_modules\expo\AppEntry.js (692 modules)
+Android Bundled 46ms node_modules\expo\AppEntry.js (1 module)
+Android Bundled 58ms node_modules\expo\AppEntry.js (1 module)
+ ERROR  Text strings must be rendered within a <Text> component.
+ ERROR  Text strings must be rendered within a <Text> component.
+ ERROR  [Invariant Violation: View config getter callback for component `h2` must be a function (received `undefined`). Make sure to start component names with a capital letter.]
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 13053ms node_modules\expo\AppEntry.js (692 modules)
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+› Stopped server
+
+C:\Users\admin\Desktop\HTK_SUCCESS>npx expo start -c
+Starting project at C:\Users\admin\Desktop\HTK_SUCCESS
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀█▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█▄▄█ █   █ █
+█ █▄▄▄█ █▀  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█  █▀  ▄███▄█▄▀▄ ███ ▀▄▄ ▄█
+█ ▀██ ▀▄▄▄ ▄█▀██ ▀▀ █▄  ▀██
+█▀██▀█▀▄▄▀▀▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███ ▀█ ▄▀ █▄ ▄██▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄▄ ▀▀█▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀▀▀█▀█▀▀ █▄█ ▀▀▀▀█
+█ █   █ █▄ ▄▄▀▄ █▄▄ ▄▄▀   █
+█ █▄▄▄█ █▀▀▄ ▄ ▄▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄███▄▄█████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.1.8:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundled 11488ms node_modules\expo\AppEntry.js (692 modules)
+
